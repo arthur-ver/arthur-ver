@@ -8,3 +8,9 @@ I'm a 21 y.o. Engineering Physics student and a self-taught developer with a pas
 - 🤝 I’m always open to collaboration
 - 📫 How to reach me: email or `arthurver#2046` on Discord
 - 😄 Pronouns: he/him
+
+#### My tech stack:
+- JavaScript/TypeScript, Python
+- React, Next.js, Fresh
+- Twind, Chakra UI
+- Deno, Node.js
